@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ads</string>
+
+    <string name="tv_message">Message</string>
+    <string name="tv_sponsored">Sponsored</string>
+    <string name="tv_watch_ad">Watch this cool gms ad!</string>
+    
+    <string name="btn_show_reward">Show Reward!</string>
+</resources>
